@@ -169,13 +169,7 @@ Download the project from github and run it in your browser.
 
 Install webpack dependencies.
 npm init -y
-npm install webpack webpack-cli --save-dev
 
-Install html webpack plugin
-npm install --save-dev html-webpack-plugin
-
-Install css loader
-npm install --save-dev style-loader css-loader
 
 
 ### Usage
