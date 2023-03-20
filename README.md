@@ -184,7 +184,7 @@ Run npm start
 You can run tests to check for linter errors by running the following commands:
 
 - npx stylelint "**/*.{css,scss}" for testing css errors
-- npx eslint . for Javascript errors
+- npx eslint "**/*.{js,jsx}" for Javascript errors
 
 
 ### Deployment
